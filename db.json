@@ -1,32 +1,34 @@
-[
-  {
-    "id": 11989,
-    "value": "1 Year Service Warranty & 5 Years Plywood Warranty",
-    "createdAt": "2024-01-06 12:08:11",
-    "updatedAt": "2024-01-06 12:08:11"
-  },
-  {
-    "id": 11990,
-    "value": "Customer Should inform about the Changes (if any Design & colour) before\nproduction or else Customer should pay Extra",
-    "createdAt": "2024-01-06 12:08:11",
-    "updatedAt": "2024-01-06 12:08:11"
-  },
-  {
-    "id": 11991,
-    "value": "Material will be delivered 3-4 weeks the date of Confirmation of Order",
-    "createdAt": "2024-01-06 12:08:11",
-    "updatedAt": "2024-01-06 12:08:11"
-  },
-  {
-    "id": 11992,
-    "value": "Quotation cant be changed / revised once accepted by the customer",
-    "createdAt": "2024-01-06 12:08:11",
-    "updatedAt": "2024-01-06 12:08:11"
-  },
-  {
-    "id": 11993,
-    "value": "If any extra works are needed then it should be paid by customer",
-    "createdAt": "2024-01-06 12:08:11",
-    "updatedAt": "2024-01-06 12:08:11"
-  }
-]
+{
+  "data": [
+    {
+      "id": 11989,
+      "value": "1 Year Service Warranty & 5 Years Plywood Warranty",
+      "createdAt": "2024-01-06 12:08:11",
+      "updatedAt": "2024-01-06 12:08:11"
+    },
+    {
+      "id": 11990,
+      "value": "Customer Should inform about the Changes (if any Design & colour) before\nproduction or else Customer should pay Extra",
+      "createdAt": "2024-01-06 12:08:11",
+      "updatedAt": "2024-01-06 12:08:11"
+    },
+    {
+      "id": 11991,
+      "value": "Material will be delivered 3-4 weeks the date of Confirmation of Order",
+      "createdAt": "2024-01-06 12:08:11",
+      "updatedAt": "2024-01-06 12:08:11"
+    },
+    {
+      "id": 11992,
+      "value": "Quotation cant be changed / revised once accepted by the customer",
+      "createdAt": "2024-01-06 12:08:11",
+      "updatedAt": "2024-01-06 12:08:11"
+    },
+    {
+      "id": 11993,
+      "value": "If any extra works are needed then it should be paid by customer",
+      "createdAt": "2024-01-06 12:08:11",
+      "updatedAt": "2024-01-06 12:08:11"
+    }
+  ]
+}
